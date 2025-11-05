@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--
+<img align='right' src='https://github.com/user-attachments/assets/e52ac51c-2704-4242-9130-a92531ffab78' width='300' alt="Mona the Octocat dressed as an environmental data scientist. Mona has long brown hair and is wearing a red bandana around her neck, a long-sleeve striped t-shirt, a purple mini skirt, and red sneakers. She holds a computer with a github logo on it.">
+
 **sofiiir/sofiiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
