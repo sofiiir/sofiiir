@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! 
+
+I'm Sofia, a current Masters student pursuing a Masters in Environmental Data Science through Bren School of the Environment and Management. 
 
 <!--
 <img align='right' src='https://github.com/user-attachments/assets/e52ac51c-2704-4242-9130-a92531ffab78' width='300' alt="Mona the Octocat dressed as an environmental data scientist. Mona has long brown hair and is wearing a red bandana around her neck, a long-sleeve striped t-shirt, a purple mini skirt, and red sneakers. She holds a computer with a github logo on it.">
