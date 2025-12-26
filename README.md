@@ -1,6 +1,7 @@
 ## Hi, I'm Sofia! 
 
 🐚 **About me**
+
 I'm a current student at the Bren School of the Environment and Management pursuing a Masters in Environmental Data Science. My background is in field biology, marine conservation, and environmental justice. I am excited to leverage my background in the field to create applicable real world solutions to complex environmental issues working towards sustainability, conservation, and environmental justice goals. 
 
 👩‍💻 **Education**
@@ -11,6 +12,7 @@ UCSB Bren School: Masters of Environmental Data Science (Expected June 2026)
 
 
 🤸🏻‍♀️ **Let's connect!**
+
 [www.linkedin.com/in/sofia-rodas](https://www.linkedin.com/in/sofia-rodas/)
 
 
