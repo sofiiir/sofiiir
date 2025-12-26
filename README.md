@@ -7,7 +7,7 @@ I'm a current student at the Bren School of the Environment and Management pursu
 Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Studies
 UCSB Bren School: Masters of Environmental Data Science (Expected June 2026)
 
-🤸🏻‍♀️ Let's connect! (www.linkedin.com/in/sofia-rodas)[https://www.linkedin.com/in/sofia-rodas/]
+🤸🏻‍♀️ Let's connect! [www.linkedin.com/in/sofia-rodas](https://www.linkedin.com/in/sofia-rodas/)
 
 
 
