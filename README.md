@@ -1,12 +1,12 @@
 ## Hi, I'm Sofia! 
 
 🌴 **About me**  
-I'm a current student at the Bren School of the Environment and Management pursuing a Masters in Environmental Data Science. My background is in field biology, marine conservation, and environmental justice. I am excited to leverage my background in the field to create applicable real world solutions to complex environmental issues working towards sustainability, conservation, and environmental justice goals. 
+I just graduated from the Bren School of the Environment and Management with a Masters in Environmental Data Science. My background is in field biology, marine conservation, and environmental justice. I am excited to leverage my background in the field to create applicable real world solutions to complex environmental issues working towards sustainability, conservation, and environmental justice goals through data analysis. 
 
 
 👩‍💻 **Education**  
-Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Studies  
-UCSB Bren School: Masters of Environmental Data Science (Expected June 2026)
+Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Studies (June 2020)
+UCSB Bren School: Masters of Environmental Data Science (June 2026)
 
 <!--
 🐚 **Let's connect!**  
