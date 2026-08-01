@@ -5,7 +5,7 @@ I just graduated from the Bren School of the Environment and Management with a M
 
 
 👩‍💻 **Education**  
-Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Studies (June 2020)
+Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Studies (June 2020)  
 UCSB Bren School: Masters of Environmental Data Science (June 2026)
 
 <!--
