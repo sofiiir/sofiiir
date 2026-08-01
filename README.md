@@ -1,6 +1,6 @@
 ## Hi, I'm Sofia! 
 
-🦋 **About me**  
+🦋 **About me**  🦋
 I just graduated from the Bren School of the Environment and Management with a Masters in Environmental Data Science. My background is in field biology, marine conservation, and environmental justice. I am excited to leverage my background in the field to create applicable real world solutions to complex environmental issues working towards sustainability, conservation, and environmental justice goals through data analysis. 
 
 
