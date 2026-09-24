@@ -9,8 +9,8 @@ Vassar College: Bachelors of Envrionmental Studies with a minor in Hispanic Stud
 UCSB Bren School: Masters of Environmental Data Science (June 2026)
 
 
-🐚 **Let's connect!**  
-[www.linkedin.com/in/sofia-rodas](https://www.linkedin.com/in/sofia-rodas/)
+### 🐚 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/sofia-rodas/)
 
 
 
